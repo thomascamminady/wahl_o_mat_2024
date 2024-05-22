@@ -1,6 +1,3 @@
-# Wahl-O-Mat 2024
-
-```csv
 question_id,question,CDU / CSU,GRÜNE,SPD,AfD,DIE LINKE,FDP,Die PARTEI,FREIE WÄHLER,Tierschutzpartei,ÖDP,FAMILIE,Volt,PIRATEN,MERA25,HEIMAT,TIERSCHUTZ hier!,Partei für schulmedizinische Verjüngungsforschung,BIG,Bündnis C,PdH,MENSCHLICHE WELT,DKP,MLPD,SGP,ABG,dieBasis,BÜNDNIS DEUTSCHLAND,BSW,DAVA,KLIMALISTE,LETZTE GENERATION,PDV,PdF,V-Partei³
 0,"""Die EU soll eigene Steuern erheben dürfen.""",-1,1,-1,1,-1,-1,-1,1,-1,1,1,1,-1,-1,1,-1,-1,0,1,1,-1,1,-1,1,-1,0,1,-1,-1,1,1,1,1,-1
 1,"""Fahrzeuge mit Verbrennungsmotoren sollen auch nach 2035 in der EU neu zugelassen werden können.""",1,-1,1,1,1,-1,1,-1,1,1,-1,1,1,-1,-1,1,-1,1,1,1,1,-1,1,-1,-1,-1,1,0,-1,1,-1,1,1,-1
@@ -36,4 +33,3 @@ question_id,question,CDU / CSU,GRÜNE,SPD,AfD,DIE LINKE,FDP,Die PARTEI,FREIE WÄ
 31,"""Die Einwanderung von Fachkräften in die EU soll vereinfacht werden.""",-1,1,-1,-1,-1,1,0,1,-1,-1,1,-1,-1,1,1,-1,1,-1,0,-1,-1,-1,0,-1,1,1,-1,-1,1,-1,1,1,-1,1
 32,"""Die Beteiligung außereuropäischer Investoren an Unternehmen im Bereich kritischer Infrastruktur soll in der EU stärker beschränkt werden.""",-1,1,1,1,1,-1,1,0,-1,1,-1,1,0,-1,1,1,-1,1,1,1,1,1,1,-1,1,-1,1,0,-1,1,-1,1,1,1
 33,"""Der Präsident bzw. die Präsidentin der Europäischen Kommission soll von den Bürgerinnen und Bürgern direkt gewählt werden.""",-1,-1,1,0,1,-1,1,-1,1,1,-1,1,1,-1,1,1,-1,1,1,-1,1,1,1,-1,-1,-1,1,-1,-1,1,-1,1,1,-1
-```

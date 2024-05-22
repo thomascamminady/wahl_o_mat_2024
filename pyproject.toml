@@ -11,6 +11,7 @@ documentation = "https://thomascamminady.github.io/wahl_o_mat_2024"
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.12"
+polars = "^0.20.27"
 
 
 [tool.poetry.group.dev.dependencies]

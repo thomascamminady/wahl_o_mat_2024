@@ -711,6 +711,45 @@ dev = ["pre-commit", "tox"]
 testing = ["pytest", "pytest-benchmark"]
 
 [[package]]
+name = "polars"
+version = "0.20.27"
+description = "Blazingly fast DataFrame library"
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "polars-0.20.27-cp38-abi3-macosx_10_12_x86_64.whl", hash = "sha256:23af36c67cf6f31b5398d37c41aefeb352ed4f6539a17df7d762c714ba78a6ca"},
+    {file = "polars-0.20.27-cp38-abi3-macosx_11_0_arm64.whl", hash = "sha256:ff2a811df45d61ed8f0d7bf3548de067241ad24056e33c7bb9a28b707ba4b229"},
+    {file = "polars-0.20.27-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:d9b9c05ee5340efd38895628c0b307821add00990d441496770757e812ea4368"},
+    {file = "polars-0.20.27-cp38-abi3-manylinux_2_24_aarch64.whl", hash = "sha256:87b804dcd25dfa182bef234e9dcba24e856de1d1c6865b8fad4f21c22921ada9"},
+    {file = "polars-0.20.27-cp38-abi3-win_amd64.whl", hash = "sha256:edf81bd3348d9009d59d2c767a5fc9ff154ac2b644955de4e440a8bf96cc81a4"},
+    {file = "polars-0.20.27.tar.gz", hash = "sha256:38d5a8b6a13af8c01915b91a05d307a1b84b9a60e596cf05a814994758dedb07"},
+]
+
+[package.extras]
+adbc = ["adbc-driver-manager", "adbc-driver-sqlite"]
+all = ["polars[adbc,async,cloudpickle,connectorx,deltalake,fastexcel,fsspec,gevent,iceberg,numpy,pandas,plot,pyarrow,pydantic,sqlalchemy,timezone,xlsx2csv,xlsxwriter]"]
+async = ["nest-asyncio"]
+cloudpickle = ["cloudpickle"]
+connectorx = ["connectorx (>=0.3.2)"]
+deltalake = ["deltalake (>=0.15.0)"]
+fastexcel = ["fastexcel (>=0.9)"]
+fsspec = ["fsspec"]
+gevent = ["gevent"]
+iceberg = ["pyiceberg (>=0.5.0)"]
+matplotlib = ["matplotlib"]
+numpy = ["numpy (>=1.16.0)"]
+openpyxl = ["openpyxl (>=3.0.0)"]
+pandas = ["pandas", "pyarrow (>=7.0.0)"]
+plot = ["hvplot (>=0.9.1)"]
+pyarrow = ["pyarrow (>=7.0.0)"]
+pydantic = ["pydantic"]
+pyxlsb = ["pyxlsb (>=1.0)"]
+sqlalchemy = ["pandas", "sqlalchemy"]
+timezone = ["backports-zoneinfo", "tzdata"]
+xlsx2csv = ["xlsx2csv (>=0.8.0)"]
+xlsxwriter = ["xlsxwriter"]
+
+[[package]]
 name = "pre-commit"
 version = "3.7.1"
 description = "A framework for managing and maintaining multi-language pre-commit hooks."
@@ -1364,4 +1403,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.10,<3.12"
-content-hash = "3dc49f1bb93ad9bd716b2c0f21cd7644677a3de64c7625e02901e80595404e41"
+content-hash = "504dd28d67a4492c7221a981dca889516a41568a929471415a0e06b0a6e741b6"
