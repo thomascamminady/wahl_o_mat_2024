@@ -15,7 +15,7 @@ polars = "^0.20.27"
 
 
 [tool.poetry.group.dev.dependencies]
-ruff = "^0.4.4"
+ruff = "^0.4.5"
 mypy = "^1.10.0"
 isort = "^5.13.2"
 pyclean = "^3.0.0"
@@ -29,6 +29,10 @@ pylint = "^3.1.0"
 pyarrow = "^16.1.0"
 scikit-learn = "^1.5.0"
 matplotlib = "^3.9.0"
+altair = "^5.3.0"
+vl-convert-python = "^1.4.0"
+
+
 
 [build-system]
 requires = ["poetry-core>=1.5.0"]

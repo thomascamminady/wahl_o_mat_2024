@@ -90,7 +90,7 @@ def extract_answers_from_lines(lines: list[str]) -> pl.DataFrame:
 
 
 if __name__ == "__main__":
-    file = "module_definition.js"
+    file = "js/module_definition.js"
     lines = load_file_into_lines(file)
 
     df_questions = extract_questions_from_lines(lines[0:1396])
@@ -108,4 +108,4 @@ if __name__ == "__main__":
         index=["question_id", "question"],
         columns=["party_name"],
         values=["answer"],
-    ).write_csv("wahl-o-mat-2024.csv")
+    ).write_csv("data/wahl-o-mat-2024.csv")
