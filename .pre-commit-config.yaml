@@ -39,8 +39,8 @@ repos:
       - id: nbqa-isort
         args: ['--float-to-top']
         name: isort (.ipynb files)
-      - id: nbqa-black
-        name: black (.ipynb files)
+      # - id: nbqa-black
+      #   name: black (.ipynb files)
 
   - repo: local
     hooks:
