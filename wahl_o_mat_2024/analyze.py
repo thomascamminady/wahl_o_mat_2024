@@ -25,4 +25,4 @@ if __name__ == "__main__":
     for xi, yi, ci in zip(x, y, df.columns):
         ax.text(xi, yi + 0.02, ci, ha="center")
     plt.axis("off")
-    plt.savefig("embedding.png")
+    plt.savefig("embedding.png", dpi=300)
