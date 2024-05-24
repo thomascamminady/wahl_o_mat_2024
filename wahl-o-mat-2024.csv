@@ -1,35 +1,39 @@
 question_id,question,CDU / CSU,GRÜNE,SPD,AfD,DIE LINKE,FDP,Die PARTEI,FREIE WÄHLER,Tierschutzpartei,ÖDP,FAMILIE,Volt,PIRATEN,MERA25,HEIMAT,TIERSCHUTZ hier!,Partei für schulmedizinische Verjüngungsforschung,BIG,Bündnis C,PdH,MENSCHLICHE WELT,DKP,MLPD,SGP,ABG,dieBasis,BÜNDNIS DEUTSCHLAND,BSW,DAVA,KLIMALISTE,LETZTE GENERATION,PDV,PdF,V-Partei³
-0,"""Die EU soll eigene Steuern erheben dürfen.""",-1,1,-1,1,-1,-1,-1,1,-1,1,1,1,-1,-1,1,-1,-1,0,1,1,-1,1,-1,1,-1,0,1,-1,-1,1,1,1,1,-1
-1,"""Fahrzeuge mit Verbrennungsmotoren sollen auch nach 2035 in der EU neu zugelassen werden können.""",1,-1,1,1,1,-1,1,-1,1,1,-1,1,1,-1,-1,1,-1,1,1,1,1,-1,1,-1,-1,-1,1,0,-1,1,-1,1,1,-1
-2,"""Die EU soll eine eigene Seenotrettung im Mittelmeer aufbauen.""",-1,-1,1,1,-1,-1,1,0,-1,1,-1,1,-1,-1,-1,1,-1,1,1,1,1,1,1,-1,-1,1,1,1,-1,1,-1,1,1,-1
-3,"""Die Ukraine soll Mitglied der EU werden.""",-1,1,-1,-1,-1,1,-1,1,-1,-1,1,-1,-1,1,1,-1,1,-1,-1,-1,-1,-1,-1,1,1,-1,-1,0,1,0,1,-1,1,1
-4,"""Die EU soll vorrangig ökologische Landwirtschaft fördern.""",1,-1,1,-1,1,-1,1,-1,1,-1,-1,-1,1,-1,-1,1,-1,1,1,-1,1,-1,1,-1,1,-1,1,1,-1,1,-1,1,1,1
-5,"""In Deutschland soll der Euro durch eine nationale Währung ersetzt werden.""",-1,1,1,1,-1,-1,1,1,-1,1,1,1,-1,-1,1,-1,-1,-1,1,1,-1,-1,1,-1,-1,1,1,0,-1,1,1,1,1,-1
-6,"""Die EU soll den Mitgliedstaaten empfehlen, außer „weiblich“ und „männlich“ auch die Eintragung einer anderen Geschlechtsidentität im Pass zu ermöglichen.""",-1,-1,1,0,1,-1,1,-1,1,1,-1,-1,1,-1,1,1,1,1,1,0,1,1,1,-1,1,-1,1,1,-1,1,-1,1,1,1
-7,"""Die Jagd auf Wölfe soll in Regionen erlaubt sein, in denen der Bestand dadurch nicht gefährdet ist.""",1,1,1,1,0,-1,1,1,-1,1,-1,1,1,-1,1,-1,-1,1,1,1,-1,1,1,-1,1,1,0,-1,-1,1,-1,1,1,-1
-8,"""Beim Bau neuer Wohngebäude in der EU soll die Errichtung von Photovoltaikanlagen verpflichtend sein.""",1,-1,1,1,1,-1,1,-1,1,1,-1,0,1,-1,-1,1,-1,1,1,0,1,1,1,-1,-1,-1,1,1,-1,1,-1,1,1,1
-9,"""Mehr außenpolitische Entscheidungen der EU sollen mit Mehrheit statt einstimmig getroffen werden.""",1,-1,1,0,1,-1,1,-1,1,1,-1,1,1,-1,1,1,-1,1,1,1,1,1,0,-1,1,-1,1,1,-1,1,-1,0,1,1
-10,"""Der Flugzeugtreibstoff Kerosin soll für Flüge in der EU steuerfrei sein.""",1,1,1,1,-1,-1,0,1,-1,1,0,1,-1,0,1,1,-1,0,1,0,1,0,0,-1,-1,0,0,-1,0,1,0,0,1,1
-11,"""Die gemeinsame europäische Polizeibehörde Europol soll weitere Befugnisse erhalten.""",1,-1,1,1,1,-1,1,-1,1,1,-1,1,1,-1,-1,1,-1,1,1,1,1,1,1,-1,-1,1,1,1,-1,1,-1,1,1,1
-12,"""Die EU soll länderübergreifende, mehrsprachige Angebote des öffentlich-rechtlichen Rundfunks stärker finanziell fördern.""",-1,-1,-1,1,1,-1,1,-1,1,1,-1,-1,1,-1,1,1,-1,1,1,1,1,1,1,-1,-1,-1,1,1,-1,1,-1,1,1,1
-13,"""Die EU soll das Ziel verwerfen, klimaneutral zu werden.""",1,-1,1,0,1,-1,1,-1,1,0,-1,-1,1,-1,-1,1,-1,1,1,-1,1,-1,1,-1,-1,-1,1,1,0,1,-1,1,1,1
-14,"""Bei den Wahlen zum Europäischen Parlament sollen die Parteien weiterhin frei entscheiden können, wie groß der Anteil der Geschlechter auf ihren Listen ist.""",-1,1,-1,-1,1,1,-1,1,-1,-1,-1,-1,-1,1,1,-1,1,1,-1,-1,0,1,-1,1,1,-1,-1,-1,1,0,1,-1,1,1
-15,"""Die EU soll Vorgaben für die Höhe der sozialen Grundsicherung in den Mitgliedstaaten machen.""",-1,1,1,-1,1,-1,-1,-1,-1,-1,0,-1,-1,1,1,-1,0,1,-1,-1,1,1,-1,0,-1,1,0,1,1,-1,1,1,1,1
-16,"""Betreiber sozialer Netzwerke sollen frei entscheiden dürfen, wie sie mit Desinformation auf ihren Plattformen umgehen.""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-17,"""In der EU sollen mehr Flächen als Naturschutzgebiete ausgewiesen werden.""",-1,-1,1,-1,1,-1,-1,1,1,1,0,1,1,-1,1,1,-1,1,1,-1,1,1,0,-1,-1,-1,1,1,1,1,-1,1,1,1
-18,"""EU-Fördermittel für Mitgliedstaaten, die Regeln und Werte der EU verletzen, sollen weiterhin zurückgehalten werden.""",-1,1,-1,1,-1,1,-1,1,-1,-1,-1,-1,-1,1,1,-1,1,-1,-1,0,-1,1,-1,-1,-1,-1,0,-1,-1,-1,1,-1,1,-1
-19,"""Die EU soll mehr Waffen für die Ukraine finanzieren.""",1,1,1,0,-1,-1,1,0,-1,1,-1,1,1,-1,1,1,-1,1,1,1,1,0,1,-1,-1,1,1,0,-1,1,1,1,1,0
-20,"""Die zulässige Menge an Fischen, die in EU-Gewässern gefangen werden dürfen, soll gesenkt werden.""",-1,1,1,-1,1,-1,-1,-1,-1,0,1,-1,0,1,1,1,1,1,1,-1,1,-1,0,-1,0,0,0,-1,1,1,0,0,1,1
-21,"""Die Einfuhrzölle der EU auf chinesische Elektroautos sollen erhöht werden.""",-1,-1,1,-1,1,0,1,-1,1,-1,-1,-1,1,-1,1,-1,-1,1,-1,-1,1,-1,1,-1,-1,-1,1,1,1,1,-1,1,-1,-1
-22,"""Die EU soll sich dafür einsetzen, dass Schwangerschaftsabbrüche in allen Mitgliedstaaten straffrei möglich sind.""",-1,-1,1,-1,1,0,1,-1,1,-1,-1,-1,1,-1,0,1,-1,1,0,-1,1,-1,1,-1,1,-1,1,0,1,1,-1,1,-1,0
-23,"""Es sollen wieder dauerhafte Grenzkontrollen zwischen den Mitgliedstaaten der EU stattfinden.""",-1,1,1,-1,1,-1,1,-1,-1,-1,-1,-1,1,-1,1,1,-1,1,-1,-1,1,-1,1,-1,1,1,1,1,1,1,-1,-1,-1,1
-24,"""Die Aufnahme neuer Staaten in die EU soll in allen Mitgliedstaaten durch Volksabstimmungen bestätigt werden müssen.""",-1,1,-1,-1,1,1,-1,-1,-1,-1,-1,-1,-1,1,1,-1,-1,-1,1,-1,1,1,-1,1,1,-1,-1,-1,1,1,1,-1,1,1
-25,"""Die EU soll den Anbau von weiteren gentechnisch veränderten Pflanzensorten erlauben.""",-1,1,-1,-1,1,1,-1,1,-1,-1,-1,-1,-1,1,1,-1,1,1,1,-1,1,1,1,-1,1,-1,1,1,1,1,1,1,1,1
-26,"""Geschlechtsspezifische Gewalt gegen Frauen soll europaweit als Asylgrund anerkannt werden.""",-1,1,-1,-1,-1,-1,-1,1,-1,-1,1,1,-1,0,1,-1,1,1,1,0,1,1,-1,-1,1,0,-1,0,0,1,1,1,1,1
-27,"""Urheberrechtlich geschützte Werke (z.B. Fotos, Musik, Literatur) sollen in der EU für nicht-kommerzielle Zwecke kostenlos verwendet werden dürfen.""",-1,1,-1,-1,-1,-1,-1,1,-1,-1,-1,0,1,-1,1,1,1,0,1,-1,0,0,1,-1,1,-1,1,0,1,1,0,0,1,0
-28,"""Die Sanktionen der EU gegen Russland sollen abgebaut werden.""",-1,1,1,-1,1,-1,-1,1,-1,1,-1,1,0,-1,1,-1,-1,0,1,-1,1,1,1,-1,-1,0,1,-1,1,1,1,1,1,-1
-29,"""Das Erasmus+ Stipendium für Auslandsaufenthalte soll für Studierende, die über weniger finanzielle Mittel verfügen, höher sein.""",1,-1,1,0,1,-1,1,-1,1,1,-1,1,1,-1,1,1,-1,1,1,0,1,-1,1,-1,-1,-1,1,0,-1,1,-1,1,1,-1
-30,"""Die EU soll Atomkraft weiterhin als nachhaltige Energiequelle einstufen.""",0,-1,1,0,1,-1,1,0,1,1,-1,-1,1,-1,-1,1,-1,1,0,0,1,0,1,-1,0,0,1,0,-1,1,-1,1,1,0
-31,"""Die Einwanderung von Fachkräften in die EU soll vereinfacht werden.""",-1,1,-1,-1,-1,1,0,1,-1,-1,1,-1,-1,1,1,-1,1,-1,0,-1,-1,-1,0,-1,1,1,-1,-1,1,-1,1,1,-1,1
-32,"""Die Beteiligung außereuropäischer Investoren an Unternehmen im Bereich kritischer Infrastruktur soll in der EU stärker beschränkt werden.""",-1,1,1,1,1,-1,1,0,-1,1,-1,1,0,-1,1,1,-1,1,1,1,1,1,1,-1,1,-1,1,0,-1,1,-1,1,1,1
-33,"""Der Präsident bzw. die Präsidentin der Europäischen Kommission soll von den Bürgerinnen und Bürgern direkt gewählt werden.""",-1,-1,1,0,1,-1,1,-1,1,1,-1,1,1,-1,1,1,-1,1,1,-1,1,1,1,-1,-1,-1,1,-1,-1,1,-1,1,1,-1
+0,"""Die EU soll eigene Steuern erheben dürfen.""",-1,1,-1,-1,1,-1,-1,1,1,1,1,1,-1,1,-1,-1,0,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,-1,-1,-1
+1,"""Fahrzeuge mit Verbrennungsmotoren sollen auch nach 2035 in der EU neu zugelassen werden können.""",1,-1,-1,1,-1,1,-1,1,-1,-1,1,-1,-1,-1,1,1,0,-1,1,1,1,-1,-1,1,1,1,1,1,1,-1,-1,1,1,-1
+2,"""Die EU soll eine eigene Seenotrettung im Mittelmeer aufbauen.""",-1,1,1,-1,1,1,1,1,1,1,1,1,-1,1,-1,1,0,1,-1,1,1,1,1,1,-1,-1,-1,-1,1,1,1,-1,1,1
+3,"""Die Ukraine soll Mitglied der EU werden.""",1,1,1,-1,-1,1,0,1,1,0,1,1,1,0,-1,-1,0,-1,1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,0,-1,1,0
+4,"""Die EU soll vorrangig ökologische Landwirtschaft fördern.""",-1,1,-1,-1,1,-1,1,0,1,1,-1,1,1,1,1,1,0,1,-1,-1,1,1,1,1,1,1,-1,-1,1,1,1,-1,1,1
+5,"""In Deutschland soll der Euro durch eine nationale Währung ersetzt werden.""",-1,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,-1,0,-1,1,-1,-1,0,0,-1,1,1,-1,-1,-1,-1,-1,1,-1,-1
+6,"""Die EU soll den Mitgliedstaaten empfehlen, außer „weiblich“ und „männlich“ auch die Eintragung einer anderen Geschlechtsidentität im Pass zu ermöglichen.""",-1,1,1,-1,1,1,1,1,1,1,0,1,1,1,-1,-1,0,-1,-1,1,-1,1,1,1,-1,-1,-1,-1,-1,1,1,0,1,1
+7,"""Die Jagd auf Wölfe soll in Regionen erlaubt sein, in denen der Bestand dadurch nicht gefährdet ist.""",1,-1,0,1,-1,1,-1,1,-1,-1,1,-1,-1,-1,1,-1,0,1,1,0,-1,-1,-1,-1,-1,1,1,1,1,-1,0,1,0,-1
+8,"""Beim Bau neuer Wohngebäude in der EU soll die Errichtung von Photovoltaikanlagen verpflichtend sein.""",-1,1,-1,-1,1,-1,1,-1,1,1,-1,1,1,1,-1,-1,0,1,-1,-1,-1,1,1,-1,-1,-1,-1,-1,-1,1,1,-1,-1,1
+9,"""Mehr außenpolitische Entscheidungen der EU sollen mit Mehrheit statt einstimmig getroffen werden.""",1,1,1,-1,-1,1,1,1,1,1,1,1,1,0,-1,-1,0,1,-1,1,0,-1,-1,-1,-1,-1,-1,-1,1,1,1,-1,1,1
+10,"""Der Flugzeugtreibstoff Kerosin soll für Flüge in der EU steuerfrei sein.""",1,-1,-1,1,-1,1,-1,-1,-1,-1,0,-1,-1,-1,-1,0,0,0,-1,-1,1,-1,-1,-1,-1,-1,1,-1,-1,-1,-1,1,-1,-1
+11,"""Die gemeinsame europäische Polizeibehörde Europol soll weitere Befugnisse erhalten.""",1,1,1,-1,-1,1,-1,1,0,1,1,1,-1,-1,-1,-1,0,1,-1,1,-1,-1,-1,-1,-1,-1,1,0,1,1,-1,-1,1,1
+12,"""Die EU soll länderübergreifende, mehrsprachige Angebote des öffentlich-rechtlichen Rundfunks stärker finanziell fördern.""",-1,1,-1,-1,1,-1,1,1,1,1,-1,1,1,1,-1,-1,0,1,-1,1,0,1,1,1,-1,-1,-1,1,0,1,1,-1,0,1
+13,"""Die EU soll das Ziel verwerfen, klimaneutral zu werden.""",-1,-1,-1,1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,1,1,0,-1,1,-1,1,-1,-1,-1,1,1,0,-1,-1,-1,-1,1,-1,-1
+14,"""Bei den Wahlen zum Europäischen Parlament sollen die Parteien weiterhin frei entscheiden können, wie groß der Anteil der Geschlechter auf ihren Listen ist.""",1,-1,-1,1,-1,1,1,1,-1,1,1,-1,1,-1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,-1,1,1,1
+15,"""Die EU soll Vorgaben für die Höhe der sozialen Grundsicherung in den Mitgliedstaaten machen.""",-1,1,1,-1,1,-1,1,-1,1,1,1,1,1,1,-1,-1,0,1,-1,1,1,-1,1,1,-1,-1,-1,1,-1,1,1,-1,1,1
+16,"""Betreiber sozialer Netzwerke sollen frei entscheiden dürfen, wie sie mit Desinformation auf ihren Plattformen umgehen.""",-1,-1,-1,1,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,1,-1,1,-1,-1,-1,-1,1,1,1,-1,-1,-1,1,-1,-1
+17,"""In der EU sollen mehr Flächen als Naturschutzgebiete ausgewiesen werden.""",0,1,1,-1,1,-1,1,1,1,1,0,1,1,1,1,1,0,1,-1,1,1,1,1,1,-1,1,1,0,0,1,1,-1,1,1
+18,"""EU-Fördermittel für Mitgliedstaaten, die Regeln und Werte der EU verletzen, sollen weiterhin zurückgehalten werden.""",1,1,1,-1,1,1,1,1,1,1,1,1,1,1,-1,-1,0,1,-1,1,1,-1,0,-1,1,1,1,1,1,1,0,0,1,1
+19,"""Die EU soll mehr Waffen für die Ukraine finanzieren.""",1,1,1,-1,-1,1,0,1,0,1,0,1,1,-1,-1,-1,0,-1,0,1,-1,-1,-1,-1,-1,-1,0,-1,-1,0,0,-1,1,-1
+20,"""Die zulässige Menge an Fischen, die in EU-Gewässern gefangen werden dürfen, soll gesenkt werden.""",-1,1,1,-1,1,-1,1,-1,1,1,1,1,1,1,0,1,0,1,-1,1,1,1,1,1,1,1,1,0,1,1,1,-1,1,1
+21,"""Die Einfuhrzölle der EU auf chinesische Elektroautos sollen erhöht werden.""",1,-1,1,-1,-1,-1,1,1,1,1,0,1,1,-1,1,1,0,1,1,0,-1,-1,-1,-1,1,1,1,0,1,-1,0,-1,1,1
+22,"""Die EU soll sich dafür einsetzen, dass Schwangerschaftsabbrüche in allen Mitgliedstaaten straffrei möglich sind.""",-1,1,1,-1,1,1,1,1,1,0,0,1,1,1,-1,-1,0,0,-1,1,0,1,1,1,-1,1,-1,1,1,1,1,0,1,1
+23,"""Es sollen wieder dauerhafte Grenzkontrollen zwischen den Mitgliedstaaten der EU stattfinden.""",1,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+24,"""Die Aufnahme neuer Staaten in die EU soll in allen Mitgliedstaaten durch Volksabstimmungen bestätigt werden müssen.""",-1,-1,-1,1,1,-1,1,1,-1,1,-1,-1,-1,-1,1,-1,0,-1,-1,-1,0,-1,1,1,1,1,1,1,-1,-1,0,1,1,-1
+25,"""Die EU soll den Anbau von weiteren gentechnisch veränderten Pflanzensorten erlauben.""",0,-1,1,-1,-1,1,-1,1,-1,-1,0,1,-1,-1,-1,1,0,-1,-1,1,0,-1,-1,1,-1,-1,0,-1,0,-1,0,1,-1,-1
+26,"""Geschlechtsspezifische Gewalt gegen Frauen soll europaweit als Asylgrund anerkannt werden.""",1,1,1,-1,1,1,1,0,1,1,0,1,1,1,-1,0,0,1,0,1,0,1,1,1,-1,1,-1,1,1,1,1,-1,1,1
+27,"""Urheberrechtlich geschützte Werke (z.B. Fotos, Musik, Literatur) sollen in der EU für nicht-kommerzielle Zwecke kostenlos verwendet werden dürfen.""",-1,0,1,0,1,0,1,-1,1,1,-1,1,1,1,-1,1,0,1,-1,0,-1,1,0,1,-1,1,0,0,-1,0,0,-1,0,-1
+28,"""Die Sanktionen der EU gegen Russland sollen abgebaut werden.""",-1,-1,-1,1,-1,-1,-1,-1,-1,-1,0,-1,-1,0,1,1,0,1,-1,-1,1,1,1,1,1,1,0,1,1,-1,-1,1,-1,-1
+29,"""Das Erasmus+ Stipendium für Auslandsaufenthalte soll für Studierende, die über weniger finanzielle Mittel verfügen, höher sein.""",1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,-1,0,1,-1,1,1,1,1,1,1,1,1,1,1,1,1,-1,1,1
+30,"""Die EU soll Atomkraft weiterhin als nachhaltige Energiequelle einstufen.""",1,-1,-1,1,-1,1,-1,-1,-1,-1,0,-1,-1,-1,1,1,0,-1,1,1,0,-1,-1,-1,1,1,1,0,1,-1,-1,1,-1,-1
+31,"""Die Einwanderung von Fachkräften in die EU soll vereinfacht werden.""",1,1,1,-1,1,1,1,1,1,0,0,1,1,1,-1,1,0,1,-1,1,0,1,1,-1,-1,1,1,0,1,1,1,1,1,1
+32,"""Die Beteiligung außereuropäischer Investoren an Unternehmen im Bereich kritischer Infrastruktur soll in der EU stärker beschränkt werden.""",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,-1,-1,-1,1,1,1,1,1,1,1,-1,1,1
+33,"""Der Präsident bzw. die Präsidentin der Europäischen Kommission soll von den Bürgerinnen und Bürgern direkt gewählt werden.""",-1,-1,-1,1,1,-1,1,-1,1,1,1,1,1,1,1,1,0,1,-1,0,1,-1,0,1,1,1,1,0,-1,-1,0,1,1,-1
+34,"""In der EU sollen Unternehmen mehr für den Ausstoß von CO₂ zahlen müssen.""",1,1,1,-1,1,0,1,1,1,1,-1,1,1,1,-1,-1,0,1,-1,1,-1,1,1,1,-1,-1,-1,-1,-1,1,1,-1,1,1
+35,"""Asylbewerberinnen und -bewerber sollen ihren Antrag vor Überschreiten der EU-Außengrenze stellen müssen und dort auf das Ergebnis warten.""",1,-1,1,1,-1,1,-1,1,-1,0,1,-1,-1,-1,1,1,0,-1,1,-1,1,-1,-1,-1,1,1,1,1,-1,-1,-1,0,1,-1
+36,"""Die EU soll weiterhin in gemeinsame europäische Rüstungsprojekte investieren.""",1,1,1,-1,-1,1,-1,1,1,1,1,1,1,-1,1,-1,0,-1,1,1,-1,-1,-1,-1,-1,-1,1,-1,1,-1,0,-1,1,1
+37,"""Das Europäische Parlament soll weiterhin eine zentrale Rolle in der EU spielen.""",1,1,1,-1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,0,0,1,1,-1,1,1,1,1,1,1,1,1

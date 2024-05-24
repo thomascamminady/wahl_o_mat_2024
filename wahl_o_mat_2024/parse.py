@@ -64,12 +64,13 @@ def extract_parties_from_lines(lines: list[str]) -> pl.DataFrame:
 
 def extract_answers_from_lines(lines: list[str]) -> pl.DataFrame:
     # each line looks like this: WOMT_aThesenParteien[37][12] = "1";
-    # we want to get the party_id (37), the question id (12) and the answer (1)
+    # we want to get the question_id (37), the party_id (12) and the answer (1)
+
     d = []
     for line in lines:
         if "WOMT_aThesenParteien" in line:
-            party_id = line.split("[")[1].split("]")[0]
-            question_id = line.split("[")[2].split("]")[0]
+            question_id = line.split("[")[1].split("]")[0]
+            party_id = line.split("[")[2].split("]")[0]
             answer = line.split('"')[1]
             d.append(
                 {
